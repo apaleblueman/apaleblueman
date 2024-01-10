@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @apaleblueman
+- 👋 Hi, I’m Gurchetan or @apaleblueman 
 - 👀 I’m interested in coding, cybersecurity, Linux 🐧, web/game dev 🎮 | Exploring open-source ❤️ |
 - 🌱 I’m currently learning python, C, linux and web devolpment
 - 💞️ I’m looking to contribute on opensource
