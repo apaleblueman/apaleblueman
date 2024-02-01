@@ -7,7 +7,7 @@ I'm a passionate CS student based in Vancouver,BC. I love exploring and working 
 - 👀 I’m interested in coding, cybersecurity, Linux 🐧, web/game dev 🎮 | Exploring open-source ❤️ |
 - 🌱 I’m currently learning python, C, linux and web devolpment
 - 💞️ I’m looking to contribute to opensource
-- 📫 Reach me [here] (https://www.linkedin.com/in/gurchetan-singh-9457322a8/)
+- 📫 Reach me [here](https://www.linkedin.com/in/gurchetan-singh-9457322a8/)
 - 😄 Pronouns: He/Him
 ## Skills
 
