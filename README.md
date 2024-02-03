@@ -14,7 +14,8 @@ I'm a passionate CS student based in Vancouver,BC. I love exploring and working 
 
 - **Programming Languages:** [Python, C]
 - **Web Technologies:** [HTML, CSS, JS, webAPIs]
-- **Tools & Frameworks:** [Matploit, NetworkX, ]
+- **OS(s):**[Linux/GNU, Windows]
+- **Tools & Frameworks:** [Matploit, NetworkX, VMs]
 - **Other Skills:** [Lightroom, DarkTable,Rawtherapee, KdenLive, Photoshop, Gimp, Excel and libre office suite]
 
 ## Connect with Me
