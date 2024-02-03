@@ -1,6 +1,7 @@
 #  👋 Hi, I’m Gurchetan or @apaleblueman 
 
 ## About Me
+![image](https://github.com/apaleblueman/apaleblueman/assets/134831552/5977b426-7e07-49c4-b880-d7beae6d111e)
 
 I'm a passionate CS student based in Vancouver,BC. I love exploring and working on various technologies and projects.
 
