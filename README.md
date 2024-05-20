@@ -6,7 +6,6 @@ I'm a passionate CS student based in India. I love exploring and working on vari
 
 - 👀 I’m interested in coding, cybersecurity, Linux 🐧, web/game dev 🎮 | Exploring open-source ❤️ |
 - 🌱 I’m currently learning python, C, linux and web devolpment
-- 💞️ I’m looking to contribute to opensource
 - 📫 Reach me [here](https://www.linkedin.com/in/gurchetan-singh-9457322a8/)
 - 😄 Pronouns: He/Him
 ## Skills
@@ -14,7 +13,7 @@ I'm a passionate CS student based in India. I love exploring and working on vari
 - **Programming Languages:** [Python, C]
 - **Web Technologies:** [HTML, CSS, JS, webAPIs]
 - **OS(s):**[Linux/GNU, Windows]
-- **Tools & Frameworks:** [Matploit, NetworkX, VMs]
+- **Tools & Frameworks:** [Matploit, NetworkX, VMs, valgrind]
 - **Other Skills:** [Lightroom, DarkTable,Rawtherapee, KdenLive, Photoshop, Gimp, Excel and libre office suite]
 
 ## Connect with Me
