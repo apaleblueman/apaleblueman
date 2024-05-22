@@ -2,8 +2,8 @@
 
 ## About Me
 
-I'm a passionate CS student based in India. I love exploring and working on various technologies and projects.
-<img src="computer-hearts.gif" height=150 width=250/>
+<img src="computer-hearts.gif" height=70 width=90/>I'm a passionate CS student based in India. I love exploring and working on various technologies and projects.
+
 - 👀 I’m interested in coding, cybersecurity, Linux 🐧, web/game dev 🎮 | Exploring open-source ❤️ |
 - 🌱 I’m currently learning python, C, linux and web devolpment
 - 📫 Reach me [here](https://www.linkedin.com/in/gurchetan-singh-9457322a8/)
