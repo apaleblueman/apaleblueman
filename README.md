@@ -9,7 +9,7 @@ I'm a passionate CS student based in India. I love exploring and working on vari
 - 📫 Reach me [here](https://www.linkedin.com/in/gurchetan-singh-9457322a8/)
 - 😄 Pronouns: He/Him
 ## Skills
-![here a gif is supposed to show]()
+![here a gif is supposed to show](./giphy.gif)
 - **Programming Languages:** [Python, C]
 - **Web Technologies:** [HTML, CSS, JS, webAPIs]
 - **OS(s):**[Linux/GNU, Windows]
