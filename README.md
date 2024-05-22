@@ -3,13 +3,13 @@
 ## About Me
 
 I'm a passionate CS student based in India. I love exploring and working on various technologies and projects.
-
+<center><img src="./con"></center>
 - 👀 I’m interested in coding, cybersecurity, Linux 🐧, web/game dev 🎮 | Exploring open-source ❤️ |
 - 🌱 I’m currently learning python, C, linux and web devolpment
 - 📫 Reach me [here](https://www.linkedin.com/in/gurchetan-singh-9457322a8/)
 - 😄 Pronouns: He/Him
 ## Skills
-![here a gif is supposed to show](./giphy.gif)
+<center>![here a gif is supposed to show](./giphy.gif)</center>
 - **Programming Languages:** [Python, C]
 - **Web Technologies:** [HTML, CSS, JS, webAPIs]
 - **OS(s):**[Linux/GNU, Windows]
@@ -32,5 +32,5 @@ I'm a passionate CS student based in India. I love exploring and working on vari
 - Favorite quote: **You miss 100% of the shots you don't take- wayne gretzky**- Michael Scott..
 
 Let's connect and collaborate on exciting projects! 😊
-![totoro](./totoro.gif)
+<center>![totoro](./totoro.gif)</center>
 
