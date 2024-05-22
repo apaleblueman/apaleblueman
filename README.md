@@ -2,14 +2,13 @@
 
 ## About Me
 ---
-
+<img src="computer-hearts.gif" height=90 width=100 />
 
 I'm a passionate CS student based in India. I love exploring and working on various technologies and projects.
 - 👀 I’m interested in coding, cybersecurity, Linux 🐧, web/game dev 🎮 | Exploring open-source ❤️ |
 - 🌱 I’m currently learning python, C, linux and web devolpment
 - 📫 Reach me [here](https://www.linkedin.com/in/gurchetan-singh-9457322a8/)
 - 😄 Pronouns: He/Him
-<img src="computer-hearts.gif" height=70 width=90 />
 
 ---
 ## Skills
