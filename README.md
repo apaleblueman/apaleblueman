@@ -9,7 +9,7 @@ I'm a passionate CS student based in India. I love exploring and working on vari
 - 📫 Reach me [here](https://www.linkedin.com/in/gurchetan-singh-9457322a8/)
 - 😄 Pronouns: He/Him
 ## Skills
-<iframe src="https://giphy.com/embed/ieBWQkIVEELhbizGAp" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/warrify-hackerman-whackerman-warrifyhackerman-ieBWQkIVEELhbizGAp">via GIPHY</a></p>
+![here a gif is supposed to show]()
 - **Programming Languages:** [Python, C]
 - **Web Technologies:** [HTML, CSS, JS, webAPIs]
 - **OS(s):**[Linux/GNU, Windows]
