@@ -8,7 +8,8 @@ I'm a passionate CS student based in India. I love exploring and working on vari
 - 📫 Reach me [here](https://www.linkedin.com/in/gurchetan-singh-9457322a8/)
 - 😄 Pronouns: He/Him
 ## Skills
-</center> <img src="./giphy.gif" height=150 width=250/> </center>
+<center> <img src="./giphy.gif" height=150 width=250/></center>
+
 - **Programming Languages:** [Python, C]
 - **Web Technologies:** [HTML, CSS, JS, webAPIs]
 - **OS(s):**[Linux/GNU, Windows]
@@ -32,5 +33,5 @@ I'm a passionate CS student based in India. I love exploring and working on vari
 
 Let's connect and collaborate on exciting projects! 😊
 <br>
-</center> <img src="./totoro.gif" height=250 width=150/> </center>
+<center> <img src="./totoro.gif" height=250 width=150/> </center>
 
