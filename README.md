@@ -32,5 +32,6 @@ I'm a passionate CS student based in India. I love exploring and working on vari
 - Favorite quote: **You miss 100% of the shots you don't take- wayne gretzky**- Michael Scott..
 
 Let's connect and collaborate on exciting projects! 😊
-<img src="./totoro.gif" height=100 width=100/>
+<br>
+<img src="./totoro.gif" height=250 width=150/>
 
