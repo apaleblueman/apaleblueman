@@ -9,7 +9,8 @@ I'm a passionate CS student based in India. I love exploring and working on vari
 - 🌱 I’m currently learning python, C, linux and web devolpment
 - 📫 Reach me [here](https://www.linkedin.com/in/gurchetan-singh-9457322a8/)
 - 😄 Pronouns: He/Him
-<img src="computer-hearts.gif" height=70 width=90/>
+<img src="computer-hearts.gif" height=70 width=90 />
+
 ---
 ## Skills
  <img src="./giphy.gif" height=150 width=250/>
