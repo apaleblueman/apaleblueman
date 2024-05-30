@@ -2,7 +2,6 @@
 
 ## About Me
 ---
-<img src="computer-hearts.gif" height=90 width=100 />
 
 I'm a passionate CS student based in India. I love exploring and working on various technologies and projects.
 - 👀 I’m interested in coding, cybersecurity, Linux 🐧, web/game dev 🎮 | Exploring open-source ❤️ |
