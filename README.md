@@ -18,7 +18,7 @@ I'm a passionate CS student based in India. I love exploring and working on vari
 
 - **Programming Languages:** [Python, C]
 - **Web Technologies:** [HTML, CSS, JS, Bootstrap and webAPIs]
-- **OS(s):**[Linux/GNU, Windows]
+- **OS(s):**[Linux, Windows]
 - **Tools & Frameworks:** [Matploit, NetworkX, VMs, valgrind]
 - **Other Skills:** [Lightroom, DarkTable,Rawtherapee, KdenLive, Photoshop, Gimp, Excel and libre office suite]
 
