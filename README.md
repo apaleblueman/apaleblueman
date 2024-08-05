@@ -11,8 +11,8 @@ I'm a passionate CS student based in India. I love exploring and working on vari
 
 ---
 ## Skills
- <img src="./giphy.gif" height=150 width=250/>
-
+ 
+<div class="tenor-gif-embed" data-postid="17417874" data-share-method="host" data-aspect-ratio="1.78771" data-width="100%"><a href="https://tenor.com/view/hacker-typing-hacking-computer-codes-gif-17417874">Hacker Typing GIF</a>from <a href="https://tenor.com/search/hacker-gifs">Hacker GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 - **Programming Languages:** [Python, C]
 - **Web Technologies:** [HTML, CSS, JS, Bootstrap and webAPIs]
 - **OS(s):**[Linux/GNU, Windows]
