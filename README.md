@@ -10,8 +10,12 @@ I'm a passionate CS student based in India. I love exploring and working on vari
 - 😄 Pronouns: He/Him
 
 ---
-## Skills
 <img src="https://tenor.com/blflC.gif"/> 
+
+## Skills
+
+
+
 - **Programming Languages:** [Python, C]
 - **Web Technologies:** [HTML, CSS, JS, Bootstrap and webAPIs]
 - **OS(s):**[Linux/GNU, Windows]
