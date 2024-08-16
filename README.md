@@ -10,11 +10,10 @@ I'm a passionate CS student based in India. I love exploring and working on vari
 - 😄 Pronouns: He/Him
 
 ---
-<img src="./hacker-typing.gif"/> 
 
 ## Skills
 
-
+<img src="./hacker-typing.gif"/> 
 
 - **Programming Languages:** [Python, C]
 - **Web Technologies:** [HTML, CSS, JS, Bootstrap and webAPIs]
