@@ -72,8 +72,14 @@ I'm a second-year Computer Science student at Chandigarh University, passionate 
 ---
 
 ## 📊 GitHub Stats
+<!-- Main stats card -->
+![Gurchetan's GitHub stats](https://github-readme-stats.vercel.app/api?username=apaleblueman&show_icons=true&theme=dark&include_all_commits=true)
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=apaleblueman&show_icons=true&theme=dark)
+<!-- Top languages -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apaleblueman&layout=compact&theme=dark)
+
+<!-- Optional: Streak stats -->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=apaleblueman&theme=dark)](https://git.io/streak-stats)
 
 ---
 
