@@ -57,7 +57,7 @@ I'm a second-year Computer Science student at Chandigarh University, passionate 
   - IoT Devices (UIUC)  
   - Java Advance Credit Program (CU)  
   - **Cisco Introduction to Cybersecurity**  
-    ![Cisco Intro to Cybersecurity](./cisco-intro-cybersecurity.png)  <!-- Replace with your PNG filename if different -->
+    ![Cisco Intro to Cybersecurity](./mybadges.png)  <!-- Replace with your PNG filename if different -->
 - **Awards**: 1st Prize in English Declamation, Gold Medal in Junior Wushu District Championship (2017)  
 - **Publications**: Featured in *Docu Magazine Vol 39* for Documentary & Street Photography (2023)
 
