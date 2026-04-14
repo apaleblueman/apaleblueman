@@ -3,6 +3,7 @@
 I'm a second-year Computer Science student at Chandigarh University, passionate about **Full Stack Development**, **Cybersecurity**, and **Linux ecosystems**. I love building practical tools, exploring new technologies, and contributing to open source. My international academic experience at Capilano University (Canada) has given me a well-rounded perspective on problem-solving and collaboration.
 
 ---
+<img src="./hacker-typing.gif">
 
 ## 🔧 Technical Skills
 
